@@ -2,6 +2,18 @@
 
 ### In His Exalted Name
 
+![Alt text](/screenshots/1.png?raw=true)
+![Alt text](/screenshots/2.png?raw=true)
+![Alt text](/screenshots/3.png?raw=true)
+![Alt text](/screenshots/4.png?raw=true)
+![Alt text](/screenshots/5.png?raw=true)
+![Alt text](/screenshots/6.png?raw=true)
+![Alt text](/screenshots/7.png?raw=true)
+![Alt text](/screenshots/8.png?raw=true)
+![Alt text](/screenshots/9.png?raw=true)
+![Alt text](/screenshots/10.png?raw=true)
+
+
 ### Introduction
 
 "LIST", as simple as its name, as beautiful as its appearance and as strong as its flexibility is designed to professionally manage your daily tasks. You can quickly submit a task by providing its title and priority. You can go further and provide a description for it. You may change the progress of the task which can be seen via the battery icon beside the title. The total progress of each day's tasks is provided to you on the corner of the screen. There are beautiful swipeable menus embedded in the program so that you can easily move a task to 'Tomorrow', delete it or mark it as done. The great flexibility of the program which is the result of its simplicity doesn't put a limit to your imagination. You may find several useful usages for the App, e.g. you can build your vocabulary or learn new things and even have a studying schedule using LIST. The App provides both Jalali and Gregorian calendar systems so that it can be used bt both Iranians and non-Iranians. Finally one can say LIST is an elegant, simple to use but very flexible and powerful App.

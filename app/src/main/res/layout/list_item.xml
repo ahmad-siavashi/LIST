@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true">
+
+    <ImageView
+        android:id="@+id/imgListItemPriority"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/txtListItemDescription"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignTop="@+id/txtListItemTitle"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="7dp"
+        android:scaleX="0.3"
+        />
+
+    <TextView
+        android:id="@+id/txtListItemTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_toLeftOf="@+id/imgListItemLevel"
+        android:layout_toRightOf="@+id/imgListItemPriority"
+        android:singleLine="true"
+        android:text="Title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/listItemTitle"
+        />
+
+    <TextView
+        android:id="@+id/txtListItemDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtListItemTitle"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_toLeftOf="@+id/imgListItemLevel"
+        android:layout_toRightOf="@+id/imgListItemPriority"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/listItemDescription"
+        />
+
+    <ImageView
+        android:id="@+id/imgListItemLevel"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/txtListItemDescription"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="7dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/item_progressbar"
+        />
+
+
+</RelativeLayout>

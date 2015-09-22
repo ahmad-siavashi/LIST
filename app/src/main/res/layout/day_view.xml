@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/day_view_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:id="@+id/headerLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true">
+
+        <TextView
+            android:id="@+id/txtHeaderDay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="20dp"
+            android:text="@string/day"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="40sp"
+            />
+
+        <TextView
+            android:id="@+id/txtHeaderDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/txtHeaderDay"
+            android:layout_marginLeft="120dp"
+            android:text="dd/MMM/yyyy"
+            android:textStyle="italic"
+            />
+
+        <ImageView
+            android:id="@+id/imgHeaderProgress"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/txtHeaderDate"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:scaleType="fitEnd"
+            android:src="@drawable/header_progressbar"/>
+    </RelativeLayout>
+
+
+    <com.allen.expandablelistview.SwipeMenuExpandableListView
+        android:id="@+id/lvItems"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/headerLayout"
+        android:layout_marginTop="15dp"
+        android:childDivider="#00000000"
+        android:clickable="true"
+        android:groupIndicator="@null"/>
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>@string/device_default</item>
+        <item>@string/persian</item>
+    </string-array>
+    <string-array name="languagesValues">
+        <item>device_default</item>
+        <item>persian</item>
+    </string-array>
+    <string-array name="calendars">
+        <item>@string/gregorian_calendar</item>
+        <item>@string/jalali_calendar</item>
+    </string-array>
+    <string-array name="calendarsValues">
+        <item>gregorian_calendar</item>
+        <item>jalali_calendar</item>
+    </string-array>
+</resources>

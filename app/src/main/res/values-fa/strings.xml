@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لیست</string>
+    <string name="cancel">انصراف</string>
+    <string name="day">روز</string>
+    <string name="description">توضیح</string>
+    <string name="done">تایید</string>
+    <string name="priority_critical">ضروری</string>
+    <string name="priority_high">زیاد</string>
+    <string name="priority_low">کم</string>
+    <string name="priority_normal">معمولی</string>
+    <string name="priority_very_low">خیلی کم</string>
+    <string name="title">عنوان</string>
+    <string name="edit">ویرایش</string>
+    <string name="congratulations">تبریک!</string>
+    <string name="better_late_than_never">کاچی به از هیچی!</string>
+    <string name="tomorrow">فردا</string>
+    <string name="item_done">انجام شد</string>
+    <string name="later">بعدا</string>
+    <string name="remove_message">مطمئن هستید؟</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="about">درباره</string>
+    <string name="delete">حذف</string>
+    <string name="today">امروز</string>
+    <string name="change_day">تغییر روز</string>
+    <string name="app_name_label">نام برنامه</string>
+    <string name="contact">تماس</string>
+    <string name="developer">توسعه دهنده</string>
+    <string name="in_his_exalted_name">بسمه تعالی</string>
+    <string name="version">نسخه</string>
+    <string name="ahmad_siavashi">احمد سیاوشی</string>
+    <string name="postpone">تعویق</string>
+    <string name="ahmad.siavashi_at_gmail.com">ahmad.siavashi@gmail.com</string>
+    <string name="app_version">1.1.1.0</string>
+    <string name="gregorian_calendar">تقویم میلادی</string>
+    <string name="jalali_calendar">تقویم جلالی</string>
+    <string name="language">زبان</string>
+    <string name="calendar">تقویم</string>
+    <string name="preferences_calendar_summary">نوع تقویم مورد استفاده خود را مشخص کنید</string>
+    <string name="preferences_language_summary">زبان برنامه را انتخاب کنید</string>
+    <string name="device_default">پیش فرض دستگاه</string>
+    <string name="persian">فارسی</string>
+    <string name="preferences">تنظیمات</string>
+</resources>

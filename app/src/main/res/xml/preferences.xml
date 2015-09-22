@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference android:title="@string/language"
+                    android:summary="@string/preferences_language_summary"
+                    android:key="language"
+                    android:entries="@array/languages"
+                    android:entryValues="@array/languagesValues" />
+    <ListPreference android:title="@string/calendar"
+                    android:summary="@string/preferences_calendar_summary"
+                    android:key="calendar"
+                    android:entries="@array/calendars"
+                    android:entryValues="@array/calendarsValues" />
+</PreferenceScreen>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LIST</string>
+    <string name="priority_critical">Critical</string>
+    <string name="priority_high">High</string>
+    <string name="priority_normal">Normal</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_very_low">Very Low</string>
+    <string name="day">Day</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="edit">Edit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="better_late_than_never">Better Late Than Never!</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="item_done">Done</string>
+    <string name="later">Later</string>
+    <string name="remove_message">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="about">About</string>
+    <string name="delete">Delete</string>
+    <string name="today">Today</string>
+    <string name="change_day">Change Day</string>
+    <string name="in_his_exalted_name">In His Exalted Name</string>
+    <string name="app_name_label">App Name</string>
+    <string name="version">Version</string>
+    <string name="developer">Developer</string>
+    <string name="ahmad_siavashi">Ahmad Siavashi</string>
+    <string name="contact">Contact</string>
+    <string name="ahmad.siavashi_at_gmail.com">ahmad.siavashi@gmail.com</string>
+    <string name="app_version">1.1.1.0</string>
+    <string name="postpone">Postpone</string>
+    <string name="jalali_calendar">Jalali Calendar</string>
+    <string name="gregorian_calendar">Gregorian Calendar</string>
+    <string name="calendar">Calendar</string>
+    <string name="language">Language</string>
+    <string name="preferences_calendar_summary">Select the kind of calendar you would like to use</string>
+    <string name="preferences_language_summary">Select the language for the application</string>
+    <string name="device_default">Device Default</string>
+    <string name="persian">Persian</string>
+    <string name="preferences">Preferences</string>
+
+</resources>

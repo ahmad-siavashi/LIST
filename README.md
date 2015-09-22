@@ -1,6 +1,6 @@
 # LIST
 
-## In His Exalted Name
+### In His Exalted Name
 
 ### Introduction
 

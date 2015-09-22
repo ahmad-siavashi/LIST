@@ -1,15 +1,14 @@
 # LIST
-A to-do list app for Android
 
-In His Exalted Name
+## In His Exalted Name
 
-Introduction
+### Introduction
 
 "LIST", as simple as its name, as beautiful as its appearance and as strong as its flexibility is designed to professionally manage your daily tasks. You can quickly submit a task by providing its title and priority. You can go further and provide a description for it. You may change the progress of the task which can be seen via the battery icon beside the title. The total progress of each day's tasks is provided to you on the corner of the screen. There are beautiful swipeable menus embedded in the program so that you can easily move a task to 'Tomorrow', delete it or mark it as done. The great flexibility of the program which is the result of its simplicity doesn't put a limit to your imagination. You may find several useful usages for the App, e.g. you can build your vocabulary or learn new things and even have a studying schedule using LIST. The App provides both Jalali and Gregorian calendar systems so that it can be used bt both Iranians and non-Iranians. Finally one can say LIST is an elegant, simple to use but very flexible and powerful App.
 
 
 
-Characteristics
+### Characteristics
 
 The 'simple is beautiful' principle has been carried out throughout the design process. Along with domestic use considerations the following results have been achieved:
 
@@ -27,7 +26,7 @@ The 'simple is beautiful' principle has been carried out throughout the design p
 
 
 
-Features
+### Features
 
 • Each item has a title, a priority and an optional description
 
@@ -55,6 +54,6 @@ Features
 
 
 
-System Requirements
+### System Requirements
 
 To run the app you should have Android 4.0–4.0.2 Ice Cream Sandwich or above.

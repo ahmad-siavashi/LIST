@@ -1,71 +1,41 @@
-# LIST
+# Project LIST
 
-### In His Exalted Name
+![LIST Screenshots](/screenshots/1.png)
+![LIST Screenshots](/screenshots/2.png)
+![LIST Screenshots](/screenshots/3.png)
+![LIST Screenshots](/screenshots/4.png)
+![LIST Screenshots](/screenshots/5.png)
+![LIST Screenshots](/screenshots/6.png)
+![LIST Screenshots](/screenshots/7.png)
+![LIST Screenshots](/screenshots/8.png)
+![LIST Screenshots](/screenshots/9.png)
+![LIST Screenshots](/screenshots/10.png)
 
-![Alt text](/screenshots/1.png?raw=true)
-![Alt text](/screenshots/2.png?raw=true)
-![Alt text](/screenshots/3.png?raw=true)
-![Alt text](/screenshots/4.png?raw=true)
-![Alt text](/screenshots/5.png?raw=true)
-![Alt text](/screenshots/6.png?raw=true)
-![Alt text](/screenshots/7.png?raw=true)
-![Alt text](/screenshots/8.png?raw=true)
-![Alt text](/screenshots/9.png?raw=true)
-![Alt text](/screenshots/10.png?raw=true)
+## Introduction
 
+**LIST** is a versatile and user-friendly task management application designed to simplify your daily routines and boost productivity. With **LIST**, you can efficiently manage tasks by specifying titles, priorities, and optional descriptions. The app also includes features to track task progress, presented visually with a battery icon next to each task title. You'll find the total progress of your daily tasks conveniently displayed in the corner of your screen.
 
-### Introduction
+**LIST** offers an intuitive interface with swipeable menus that streamline task management. You can effortlessly reschedule tasks for 'Tomorrow,' delete them, or mark them as completed. The app's simplicity doesn't limit your creativity, making it suitable for various purposes such as building vocabulary or creating study schedules. It even supports both Jalali and Gregorian calendar systems to accommodate users worldwide.
 
-"LIST", as simple as its name, as beautiful as its appearance and as strong as its flexibility is designed to professionally manage your daily tasks. You can quickly submit a task by providing its title and priority. You can go further and provide a description for it. You may change the progress of the task which can be seen via the battery icon beside the title. The total progress of each day's tasks is provided to you on the corner of the screen. There are beautiful swipeable menus embedded in the program so that you can easily move a task to 'Tomorrow', delete it or mark it as done. The great flexibility of the program which is the result of its simplicity doesn't put a limit to your imagination. You may find several useful usages for the App, e.g. you can build your vocabulary or learn new things and even have a studying schedule using LIST. The App provides both Jalali and Gregorian calendar systems so that it can be used bt both Iranians and non-Iranians. Finally one can say LIST is an elegant, simple to use but very flexible and powerful App.
+In summary, **LIST** is an elegant, easy-to-use, yet highly flexible and powerful task management tool that empowers you to stay organized and in control of your tasks.
 
+## Key Features
 
+- **Task Details**: Each task can include a title, priority level, and an optional description.
+- **Priority Levels**: Prioritize tasks with five different levels: Very Low, Low, Normal, High, and Critical.
+- **Easy Editing**: Efficiently edit tasks via two distinct menus for user convenience.
+- **Tomorrow's Tasks**: Use the swipe menu to move tasks to 'Tomorrow.'
+- **Progress Tracking**: Monitor task progress and update it as tasks evolve.
+- **Task Postponement**: Easily reschedule tasks to any date with a long press on the desired item.
+- **Today's Date**: Access the current date swiftly using the 'Today' button within calendar dialogs.
+- **Task Removal**: Remove tasks using three different menus for flexibility.
+- **Date Navigation**: Seamlessly switch between days by swiping left and right.
+- **Calendar Access**: Change the current day via the calendar dialog by clicking on the header.
+- **Progress Summary**: Calculate the total progress of tasks for the day.
+- **Date Highlighting**: Distinguish the current date by changing the color of the date in the header.
 
-### Characteristics
+## System Requirements
 
-The 'simple is beautiful' principle has been carried out throughout the design process. Along with domestic use considerations the following results have been achieved:
+To run **LIST**, your Android device should have Android 4.0–4.0.2 Ice Cream Sandwich or a more recent version installed.
 
-• Elegant appearance.
-
-• Ease of use.
-
-• Rapid task submission.
-
-• Beautiful menus to perform changes and navigate.
-
-• Support for Iranian and Gregorian calendar systems (The Gregorian calendar works with several languages such as Arabic, Spanish, French and etc)
-
-• Support for Persian and English languages
-
-
-
-### Features
-
-• Each item has a title, a priority and an optional description
-
-• There are 5 different priorities for a task: Very Low, Low, Normal, High and Critical
-
-• User can edit an item via two different menus. The purpose is ease of use.
-
-• The ability to easily move a task to 'Tomorrow" via a swipe menu.
-
-• The ability to change the progress of each task.
-
-• The ability to postpone a task to any date (long click on the desired item).
-
-• There's a 'Today' button, embedded in calendar dialogs to easily access the current date.
-
-• The ability to remove an item via three different menus.
-
-• The ability to change the current day by swiping pages to left and right.
-
-• The ability to change the current day using calendar dialog (by clicking on the header).
-
-• The ability to calculate the total progress of day's tasks.
-
-• The ability to distinguish the current date from other days by changing the color of the date in the header.
-
-
-
-### System Requirements
-
-To run the app you should have Android 4.0–4.0.2 Ice Cream Sandwich or above.
+---
